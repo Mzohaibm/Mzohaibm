@@ -12,7 +12,7 @@
 <a href="https://twitter.com/zohaibmughal106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zohaibmughal106" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-zohaib-38aaa8251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-zohaib-38aaa8251" height="30" width="40" /></a>
 <a href="https://fb.com/zohaibatif.attari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zohaibatif.attari" height="30" width="40" /></a>
-<a href="https://instagram.com/zohaib12543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zohaib12543" height="30" width="40" /></a>
+<a href="https://instagram.com/zohaibmughal106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zohaib12543" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
