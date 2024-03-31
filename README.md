@@ -57,9 +57,6 @@
   </a>
 </p>
 <p align="left">
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="100" height="100"/>
-  </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="100" height="100"/>
   </a>
@@ -82,15 +79,6 @@
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="100" height="100"/>
-  </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/>
-  </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="100" height="100"/>
-  </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeaftereffects/adobeaftereffects-original.svg" alt="adobeaftereffects" width="100" height="100"/>
   </a>
   <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="100"/>
