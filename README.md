@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzohaibm&label=Profile%20views&color=0e75b6&style=flat" alt="mzohaibm" /> </p>
 
-- 💬 Ask me about **react js ,next js, express js ,node js, redux toolkit,javascript**
+💬 Ask me about react js, next js, express js, node js, redux toolkit, javascript, wordpress, woocommerce, blender, unity, typescript, seo, adsense
 
-- 📫 How to reach me **zohaibattari106@gmail.com**
+- 📫 How to reach me **itszohaibmughal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
