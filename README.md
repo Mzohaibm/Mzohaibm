@@ -93,18 +93,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeaftereffects/adobeaftereffects-original.svg" alt="adobeaftereffects" width="100" height="100"/>
   </a>
   <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="100" height="100"/>
-  </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/>
-  </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="100" height="100"/>
-  </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="cpp" width="100" height="100"/>
-  </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="100"/>
   </a>
   <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
@@ -116,20 +104,6 @@
   <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="100" height="100"/>
   </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeaftereffects/adobeaftereffects-original.svg" alt="adobe after effects" width="100" height="100"/>
-  </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="100" height="100"/>
-  </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/>
-  </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="100" height="100"/>
-  </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/>
   </a>
 </p>
 
