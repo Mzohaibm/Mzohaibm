@@ -110,23 +110,26 @@
   <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="100" height="100"/>
   </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/algorithm/algorithm-original.svg" alt="dsa" width="100" height="100"/>
+<a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/>
   </a>
   <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oop/oop-original.svg" alt="oops" width="100" height="100"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="100" height="100"/>
   </a>
   <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blogger/blogger-original.svg" alt="bloggin" width="100" height="100"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeaftereffects/adobeaftereffects-original.svg" alt="adobe after effects" width="100" height="100"/>
   </a>
   <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/contentful/contentful-original.svg" alt="content writing" width="100" height="100"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="100" height="100"/>
   </a>
   <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seo/seo-original.svg" alt="seo" width="100" height="100"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/>
   </a>
   <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazon/amazon-original.svg" alt="amzona affliate mareting" width="100" height="100"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="100" height="100"/>
+  </a>
+  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/>
   </a>
 </p>
 
