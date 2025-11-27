@@ -1,106 +1,97 @@
-<h1 align="center">Hi 👋, I'm Zohaib</h1>
-<h3 align="center">I'm Passionate MERN Stack Developer!</h3>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/97839352/227653526-7f41f021-3940-410c-9304-43f114674d8b.gif" width="60" alt="Wave Hello">
+    <h1>Hi, I'm Zohaib!</h1>
+    <h3 align="center">CEO & AI Automation Expert | 6+ Yrs of Full-Stack & AI Innovation</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mzohaibm&label=Profile%20views&color=0e75b6&style=flat" alt="mzohaibm" /> </p>
-
-💬 Ask me about react js, next js, express js, node js, redux toolkit, javascript, wordpress, woocommerce, blender, unity, typescript, seo, adsense
-
-- 📫 How to reach me **itszohaibmughal@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zohaibmughal106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zohaibmughal106" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-zohaib-38aaa8251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-zohaib-38aaa8251" height="30" width="40" /></a>
-<a href="https://fb.com/zohaibatif.attari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zohaibatif.attari" height="30" width="40" /></a>
-<a href="https://instagram.com/zohaibmughal106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zohaib12543" height="30" width="40" /></a>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=mzohaibm&label=Profile%20views&color=4177ff&style=for-the-badge" alt="mzohaibm" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="100" height="100"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="100" height="100"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100" height="100"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/>
-    <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/>
-</a>
-<a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="100" height="100"/>
-</a>
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.cppreference.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/>
-  </a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="100" height="100"/>
-  </a>
-  <a href="https://woocommerce.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="100" height="100"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="100" height="100"/>
-  </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="100"/>
-  </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="100" height="100"/>
-  </a>
-<a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/>
-  </a>
-  <a href="https://github.com/Zohaibb90" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="100" height="100"/>
-  </a>
-  </a>
+---
+
+## 🚀 My Current Focus: AI Automation & Business Growth
+
+I leverage **6+ years** of MERN Stack and full-stack development expertise to build powerful **AI Automation and Lead-Conversion Systems** at **ZeeNexoAI**.
+
+My mission is to transform slow, repetitive workflows into fast, intelligent systems that generate **real results** and help businesses grow by:
+
+* **Instantly engaging leads** with advanced AI.
+* **Automatically nurturing** them through the sales funnel.
+* **Converting them** into loyal, long-term customers.
+
+**[Visit ZeeNexoAI ↗](https://zeenexoai.com/)**
+
+---
+
+## 💡 Expertise
+
+💬 **Ask me about:** **AI Automation**, **Lead Conversion**, **Next.js**, **React.js**, **Node.js**, **Express.js**, **Redux**, **TypeScript**, **WordPress**, **Blender/Unity** (Game Dev), **SEO/Adsense**.
+
+* **Core Skills:** AI Automation, Lead Conversion Systems, MERN Stack (MongoDB, Express, React, Node.js), Full-Stack Development.
+* **Connect:** **[itszohaibmughal@gmail.com](mailto:itszohaibmughal@gmail.com)**
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/-m-zohaib-/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/zohaibmughal106" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://fb.com/zohaibatif.attari" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://instagram.com/zohaibmughal106" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://zeenexoai.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Agency_Website-000000?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Agency Website">
+    </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mzohaibm&show_icons=true&locale=en&layout=compact" alt="mzohaibm" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzohaibm&show_icons=true&locale=en" alt="mzohaibm" /></p>
+## 🛠️ Languages & Tools
+
+A selection of the technologies I work with regularly, displayed with modern, high-contrast shields.
+
+<p align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <br/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <br/>
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+    <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <br/>
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+    <a href="https://github.com/mzohaibm">
+        <img src="https://github-readme-stats.vercel.app/api?username=mzohaibm&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Zohaib's GitHub Stats" />
+    </a>
+    <a href="https://github.com/mzohaibm">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mzohaibm&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </a>
+</p>
